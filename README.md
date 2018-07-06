@@ -1,2 +1,2 @@
 # hello-world
-hello world repository!
+this is an edit to the readme file to better explain how branches work
